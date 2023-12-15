@@ -1,0 +1,3 @@
+interface IArticlesService {
+	getArticle(): string;
+}
